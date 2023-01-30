@@ -23,3 +23,10 @@ padding: 1rem;
 font-size: 1.5rem;
 font-weight: 600;
 }
+
+footer {
+    background-color: rgb(33, 27, 44);
+    padding: 1rem;
+    font-size: .8rem;
+    color: white;
+}
