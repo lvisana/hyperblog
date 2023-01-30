@@ -18,8 +18,26 @@ h1 {
 }
 
 header {
-background-color: lightgoldenrodyellow;
-padding: 1rem;
+background: url('../img/bg.jpg') no-repeat center;
+padding: 1rem 1.5rem;
 font-size: 1.5rem;
 font-weight: 600;
+display: flex;
+align-items: center;
+color: white;
+gap: 1rem;
+}
+
+header p {
+    margin-bottom: 0;
+}
+
+.icon svg path {
+    fill: white;
+}
+
+.icon {
+    width: 45px;
+    height: 45px;
+    padding: 0;
 }
