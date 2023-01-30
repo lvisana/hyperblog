@@ -41,3 +41,10 @@ header p {
     height: 45px;
     padding: 0;
 }
+
+footer {
+    background-color: rgb(33, 27, 44);
+    padding: 1rem;
+    font-size: .8rem;
+    color: white;
+}
