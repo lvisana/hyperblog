@@ -4,7 +4,7 @@ Un blog increíble por Luisana Mora
 >Esta página está muy mal hecha y no es real, está hecha para estudiar Git y GitHub. Me encantaron estas características de Git:
 - Fácil de usar
 - Intuitivo
-- Útil para proyectos grandes
+- Útil para proyectos grandes con muchos desarrolladores
 
 ##Mira mis proyectos reales
 
