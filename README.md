@@ -5,6 +5,7 @@ Un blog increíble por Luisana Mora
 - Fácil de usar
 - Intuitivo
 - Útil para proyectos grandes con muchos desarrolladores
+- Mejora la implementación de versiones de un software
 
 ##Mira mis proyectos reales
 
