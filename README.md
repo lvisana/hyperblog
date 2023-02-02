@@ -7,7 +7,7 @@ Un blog increíble por Luisana Mora
 - Útil para proyectos grandes con muchos desarrolladores
 - Mejora la implementación de versiones de un software
 
-##Mira mis proyectos reales
+# Mira mis proyectos reales
 
 - [E-commerce product template](https://github.com/lvisana/ecommerce-product-page-main)
 - [Order form template](https://github.com/lvisana/Order-Summary-Challenge)
