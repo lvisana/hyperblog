@@ -1,5 +1,5 @@
-# hyperblog
-Un blog increíble
+# Hyperblog <3
+Un blog increíble por Luisana Mora
 
 >Esta página está muy mal hecha y no es real, está hecha para estudiar Git y GitHub. Me encantaron estas características de Git:
 - Fácil de usar
